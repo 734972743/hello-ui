@@ -1,6 +1,7 @@
 <template>
 <div>
   <div>info</div>
+  <h1>hi</h1>
  <button type="button" @click="increase()">点我</button>
 </div>
 
